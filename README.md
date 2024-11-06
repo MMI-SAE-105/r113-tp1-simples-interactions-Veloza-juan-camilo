@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Veloza 
+- prénom : Juan Camilo
+- URL Netlify : https://spontaneous-starlight-5bbf24.netlify.app/
 
 # Travail
 
